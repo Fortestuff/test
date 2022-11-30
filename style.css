@@ -1,0 +1,12 @@
+.cube1 {
+    width: 1000px;
+    height: 200px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+
+.cube2 {
+    width: 40%;
+    height: 200px;
+    background-color: rebeccapurple
+}
